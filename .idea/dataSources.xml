@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="710858164">
+    <data-source source="LOCAL" name="Django default" uuid="7ec6509f-73bf-4643-bbcf-618021ef444d">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:5432/wearesocial_production</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
